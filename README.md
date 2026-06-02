@@ -26,7 +26,7 @@
 
 | 프로젝트 | 설명 | 기술 | 링크 |
 |---------|------|------|------|
-| **Helper** | 운동 기록 관리 및 AI 피드백 서비스. 세트별 무게·횟수·RPE 기록, GPT 기반 비동기 운동 분석 | Spring Boot · JWT · JPA · GPT-4o-mini | [🔗 Backend](https://github.com/yubeen777/helper-backend) |
+| **Helper** | 운동 기록 관리 및 AI 피드백 서비스. 세트별 무게·횟수·RPE 기록, GPT 기반 비동기 운동 분석 | Spring Boot · JWT · JPA · GPT-4o-mini | [🔗 Backend](https://github.com/yubeen777/helper-backend) · [🔗 Frontend](https://github.com/yubeen777/helper-frontend) |
 | **PassMaker** | 멘토와 1:1 화상 멘토링 예약 및 AI 자동 요약 플랫폼. Toss Payments 결제 연동, WebRTC 화상 통화, STT 기반 멘토링 내용 AI 요약 | Spring Boot · JPA · MariaDB | [🔗 Backend](https://github.com/DDongHyun00/PassMaker_be) · [🔗 Frontend](https://github.com/DDongHyun00/PassMaker_fe) |
 | **SOCAM** | 정부지원 IT 교육 프로그램 검색 및 관리 플랫폼. 학생·운영기관·관리자 3가지 역할별 권한 분리, 강의 승인 워크플로우 구현 | Spring Boot · GCP · Next.js | [🔗 Backend](https://github.com/Socam-kosta/socam-BE) · [🔗 Frontend](https://github.com/Socam-kosta/socam-FE) |
 
