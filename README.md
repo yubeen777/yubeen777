@@ -52,7 +52,7 @@
 
 ## 📊 GitHub 통계
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yubeen777&show_icons=true&theme=default&hide_border=true&locale=kr)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yubeen777&layout=compact&hide_border=true&locale=kr)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yubeen777&show_icons=true&theme=dark&hide_border=true)](https://github.com/yubeen777)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yubeen777&layout=compact&theme=dark&hide_border=true)](https://github.com/yubeen777)
 
 </div>
